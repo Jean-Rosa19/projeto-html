@@ -1,0 +1,57 @@
+
+        h2 {
+            color:green;
+            font-size: 2em; 
+        }
+
+        body {
+            background-color: rgb(255, 400, 200);
+            font-size: 20px;
+
+        }
+        p {
+            font-family: fantasy;
+        }
+
+
+
+        #Indice {
+           color: blue;
+        }
+
+        #Habilidades {
+            color: chocolate;
+        }
+
+        .lista-estilo{
+            background-color: chartreuse;
+            color: white;
+            font-weight: bold;
+            font-style: italic;
+            line-height: 40px;
+            text-align: center;
+            text-decoration: underline;
+
+        }
+        div {
+            border: 2px solid green;
+        }
+       .description {
+           float: right ;
+           text-align: left;
+
+           
+           
+
+       }
+        .image-container {
+            height: 200px;
+        }
+        .div pai {
+            font-size: 0px;
+        }
+       
+           
+       
+
+
